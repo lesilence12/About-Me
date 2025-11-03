@@ -31,7 +31,7 @@
 ### 📫 Me contacter
 
 - ✉️ Email : *williammfetmouta@gmail.com*
-- 💼 LinkedIn : *[@William Mfetmouta](https://www.linkedin.com/in/william-mfetmouta)*
+- 💼 LinkedIn : *[@William MFETMOUTA](https://www.linkedin.com/in/william-mfetmouta)*
 - 🐙 GitHub : *[@William MFETMOUTA](https://github.com/lesilence12)*
 
 ---
