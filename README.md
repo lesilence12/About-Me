@@ -22,8 +22,8 @@
 ### 📈 Statistiques GitHub
 
 <p align="start">
-  <img src="https://github-readme-stats.vercel.app/api?username=William-MFETMOUTA&show_icons=true&theme=radical" alt="Stats GitHub" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=William-MFETMOUTA&layout=compact&theme=radical" alt="Langues les plus utilisées" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lesilence12&show_icons=true&theme=radical" alt="Stats GitHub" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lesilence12&layout=compact&theme=radical" alt="Langues les plus utilisées" height="150" />
 </p>
 
 ---
@@ -32,7 +32,7 @@
 
 - ✉️ Email : *williammfetmouta@gmail.com*
 - 💼 LinkedIn : *[@William Mfetmouta](https://www.linkedin.com/in/william-mfetmouta)*
-- 🐙 GitHub : *[@William-MFETMOUTA](https://github.com/William-MFETMOUTA)*
+- 🐙 GitHub : *[@William MFETMOUTA](https://github.com/lesilence12)*
 
 ---
 
