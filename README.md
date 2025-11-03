@@ -1,13 +1,13 @@
-<h1 align="center">Salut, moi c'est William Mfetmouta 👋</h1>
+<h1 align="start">Salut, moi c'est William 👋</h1>
 
-<p align="center">Développeur passionné basé à Douala, Cameroun 🌍</p>
+<p align="start">Développeur passionné basé à Douala, Cameroun 🌍</p>
 
 ---
 
 ### 💡 À propos de moi
 
 - 🎓 Auto-formé en développement web & scripting Linux
-- 🧠 J'apprends actuellement **Vue.js**, **Laravel**, **CodeIgniter**, **Node.js**, et le **ethical hacking**
+- 🧠 J'apprends actuellement **Java**,**C**,**Figma** et le **ethical hacking**
 - 💬 Ask me about : **PHP, Bash, Ubuntu, JavaScript**
 - 🧘‍♂️ Philosophie : *"Sans prise de tête"*
 
@@ -15,15 +15,15 @@
 
 ### 🔧 Technologies & outils
 
-<img src="https://skillicons.dev/icons?i=html,css,js,vue,php,laravel,nodejs,python,bash,linux,ubuntu,git" />
+<img src="https://skillicons.dev/icons?i=html,css,sass,js,nodejs,java,php,c,cs,py,postgres,figma,laravel,vue,bash,ubuntu" />
 
 ---
 
 ### 📈 Statistiques GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LeSilenc&show_icons=true&theme=radical" alt="Stats GitHub" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeSilenc&layout=compact&theme=radical" alt="Langues les plus utilisées" height="150" />
+<p align="start">
+  <img src="https://github-readme-stats.vercel.app/api?username=William-MFETMOUTA&show_icons=true&theme=radical" alt="Stats GitHub" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=William-MFETMOUTA&layout=compact&theme=radical" alt="Langues les plus utilisées" height="150" />
 </p>
 
 ---
@@ -32,7 +32,7 @@
 
 - ✉️ Email : *williammfetmouta@gmail.com*
 - 💼 LinkedIn : *[@William Mfetmouta](https://www.linkedin.com/in/william-mfetmouta)*
-- 🐙 GitHub : *[@LeSilenc](https://github.com/LeSilenc)*
+- 🐙 GitHub : *[@William-MFETMOUTA](https://github.com/William-MFETMOUTA)*
 
 ---
 
